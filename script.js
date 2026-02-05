@@ -12,7 +12,9 @@ const playlists = [
   "PL3yYTOt0h5FMIoWefwEtP41Ueo16DO0ZF",
   "PL3yYTOt0h5FMTTmt5241q2fi3Bv8NDdLu",
   "PL3yYTOt0h5FNGChF7moitEO9klgnHA4IW",
-  "PL3yYTOt0h5FOJSh6pQRR0Kof6rs3qnujU"
+  "PL3yYTOt0h5FOJSh6pQRR0Kof6rs3qnujU",
+  "PL2SfAU9k9_40CaUqFBiCpMV6YYMW-QVOq",
+  "PL2SfAU9k9_426aDLd6OYEhBDXDwevBpWY"
 ];
 
 const btn = document.getElementById("start-btn");
@@ -36,5 +38,6 @@ btn.addEventListener("click", () => {
 
 // rotación automática
 setInterval(cargarPlaylist, 1000 * 60 * 45);
+
 
 
