@@ -31,4 +31,5 @@ btn.addEventListener("click", () => {
 });
 
 // rotación automática
-setInterval(cargarPlaylist, 1000 * 60 * 25);
+setInterval(cargarPlaylist, 1000 * 60 * 45);
+
