@@ -71,3 +71,16 @@ html, body {
   0% { opacity: 0.97; }
   100% { opacity: 1; }
 }
+
+#start-title {
+  font-size: 1.3rem;
+  margin-bottom: 1.2rem;
+}
+
+#start-subtitle {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #aaa;
+}
+
